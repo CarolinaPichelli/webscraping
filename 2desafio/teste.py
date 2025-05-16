@@ -53,6 +53,7 @@ time.sleep(6)
 
 # Coleta dos voos
 
+allFlight = []
 allFlights = []
 qtdeFlights = 0
 
@@ -96,12 +97,24 @@ for i in range(10):
                     info = flight.find_element(By.CLASS_NAME, "info")
 
                     empresa = info.find_element(By.CSS_SELECTOR, "p.company-and-seat > span.company").text
-                    print("Empresa aérea:", empresa)
-                    allFlights.append(empresa)
+                    classe = info.find_element(By.CSS_SELECTOR, "p.company-and-seat > span.seat").text
+                    classe_milhas = WebDriverWait(browser, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, "p.miles")))
+                    horarios = info.find_elements(By.CLASS_NAME, "iata-code")
+                    hora_saida = horarios[0].text 
+                    hora_chegada = horarios[1].text 
+    
+                    classe_duracao = flight.find_elements(By.CLASS_NAME, "scale-duration__time")
+                    duracao = classe_duracao[0].text               
+                    # print(f'Empresa aérea: {empresa}')
+                    # print(f'Classe: {classe}')
+                    # print(f'Valor: {classe_milhas}')
+                    allFlight.append(empresa, classe, classe_milhas, hora_saida, hora_chegada, duracao )
+                    print(allFlight)
                     qtdeFlights += 1
                     
                 except:
-                    print("Todos os voos foram coletados.")
+                    print("Todos os voos encontrados foram coletados.")
             
 
 # Finaliza o script
