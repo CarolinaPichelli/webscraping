@@ -1,0 +1,182 @@
+[
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.700 milhas por viajante",
+    "duracao": "11h45min",
+    "saida": "GRU 01h45",
+    "chegada": "MIA 12h30"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.900 milhas por viajante",
+    "duracao": "11h35min",
+    "saida": "GRU 07h20",
+    "chegada": "MIA 17h55"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.900 milhas por viajante",
+    "duracao": "12h10min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 04h00"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.900 milhas por viajante",
+    "duracao": "14h45min",
+    "saida": "GRU 04h10",
+    "chegada": "MIA 17h55"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.900 milhas por viajante",
+    "duracao": "17h10min",
+    "saida": "GRU 01h45",
+    "chegada": "MIA 17h55"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.900 milhas por viajante",
+    "duracao": "18h00min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 09h50"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 91.200 milhas por viajante",
+    "duracao": "23h10min",
+    "saida": "GRU 01h45",
+    "chegada": "MIA 23h55"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 91.200 milhas por viajante",
+    "duracao": "32h05min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 23h55"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 91.200 milhas por viajante",
+    "duracao": "32h05min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 23h55"
+  },
+  {
+    "data_voo": "2025-05-25",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 91.200 milhas por viajante",
+    "duracao": "32h05min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 23h55"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "GOL Linhas Aéreas",
+    "classe": "Econômica",
+    "preco": "A partir de 70.000 milhas ou R$ 1.456,99 por viajante",
+    "duracao": "12h20min",
+    "saida": "GRU 06h00",
+    "chegada": "MIA 17h20"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "GOL Linhas Aéreas",
+    "classe": "Econômica",
+    "preco": "A partir de 70.000 milhas ou R$ 1.497,09 por viajante",
+    "duracao": "24h35min",
+    "saida": "GRU 08h40",
+    "chegada": "MIA 08h15"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "GOL Linhas Aéreas",
+    "classe": "Econômica",
+    "preco": "A partir de 70.000 milhas ou R$ 1.497,09 por viajante",
+    "duracao": "19h10min",
+    "saida": "GRU 14h05",
+    "chegada": "MIA 08h15"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.700 milhas por viajante",
+    "duracao": "11h35min",
+    "saida": "GRU 07h20",
+    "chegada": "MIA 17h55"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.700 milhas por viajante",
+    "duracao": "11h45min",
+    "saida": "GRU 01h45",
+    "chegada": "MIA 12h30"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.700 milhas por viajante",
+    "duracao": "14h45min",
+    "saida": "GRU 04h10",
+    "chegada": "MIA 17h55"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.700 milhas por viajante",
+    "duracao": "18h00min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 09h50"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.700 milhas por viajante",
+    "duracao": "20h25min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 12h15"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.900 milhas por viajante",
+    "duracao": "12h10min",
+    "saida": "GRU 16h50",
+    "chegada": "MIA 04h00"
+  },
+  {
+    "data_voo": "2025-05-27",
+    "empresa": "Avianca",
+    "classe": "Econômica",
+    "preco": "A partir de 81.900 milhas por viajante",
+    "duracao": "21h40min",
+    "saida": "GRU 07h20",
+    "chegada": "MIA 04h00"
+  }
+]
